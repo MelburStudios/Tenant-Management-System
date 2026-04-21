@@ -104,8 +104,9 @@ It is built to reflect real-world landlord workflows, especially where utilities
 
 *(Update this if you have login credentials)*
 
-* Username: `admin`
-* Password: `admin123`
+* Username:
+* Password: 
+`Contact developer for credentials`
 
 ---
 
